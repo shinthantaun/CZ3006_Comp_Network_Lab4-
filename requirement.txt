@@ -1,0 +1,11 @@
+sockets
+folium
+requests
+numpy
+pandas
+scipy
+seaborn
+matplotlib
+networkx
+jupyter
+pyvis
