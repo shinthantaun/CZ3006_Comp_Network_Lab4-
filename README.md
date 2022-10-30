@@ -1,4 +1,4 @@
-# CZ3006_Comp_Network_Lab4-
+# CZ3006_Lab4
 
 ### Setup
 
