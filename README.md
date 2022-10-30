@@ -1,5 +1,14 @@
 # CZ3006_Comp_Network_Lab4-
 
+### Setup
+
+- Make sure host has installed pip and python3.
+
+- Install required python modules.
+```
+pip install -r requirement.txt
+```
+
 
 ### Visualization
 
