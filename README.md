@@ -2,7 +2,7 @@
 
 ### Setup
 
-- Make sure host has installed pip and python3.
+- Make sure pip and python3 has been installed on the host.
 
 - Install required python modules.
 ```
